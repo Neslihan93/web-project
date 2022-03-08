@@ -1,0 +1,39 @@
+.anasayfa-li
+        {float:left;
+        margin-right:5px;
+        list-style-type:none;
+        background-color:blueviolet;
+        padding: 4px;
+        border-radius:5px;
+    }
+    main{
+        background-color:aqua;
+        padding: 1rem;
+    }
+    ul,ol{
+        list-style-type:none;
+    }
+    section
+        {
+        background-color:mediumvioletred;
+        display: inline;
+        padding: 4px;
+        }
+        .kutu.bolum
+        {
+          background-color:brown;
+        }
+        .kutu .bolum
+        {
+         background-color:darkkhaki;
+         
+        }
+        .kutu
+        {
+            padding: 4px;
+        }
+
+        section#section2
+        {
+            background-color:plum;
+        }
